@@ -12,7 +12,13 @@ Installation:
 
 - add the contents of @epochhive\addons from the download to @epochhive\addons on your server.
 
-
+Configuration
+- Configuration of the mod can be done by changing settings in @epochhive\addons\deployablevehicles.pbo
+- Unpack that pbo
+- open config.hpp
+- change the type of vehicle spawned and any other settings you wish to modifiy
+- repack that pbo
+- Restart your server.
 
 
  
